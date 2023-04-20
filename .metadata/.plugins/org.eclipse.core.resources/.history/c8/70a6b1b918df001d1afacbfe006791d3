@@ -1,0 +1,11 @@
+package com;
+
+public interface ISoundable {
+	public static final int num=10;
+	public abstract void play();
+	void pause();
+	void stop();
+	public static void record() {
+		num=20;
+	}
+}

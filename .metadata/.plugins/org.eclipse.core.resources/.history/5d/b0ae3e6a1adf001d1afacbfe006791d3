@@ -1,0 +1,14 @@
+package org;
+
+public class Main {
+
+	public static void main(String[] args) {
+		ICalculator cal=new Addition();
+		System.out.println(cal.calculate(15, 5));
+		
+		cal=new Subtraction();
+		System.out.println(cal.calculate(15, 5));
+
+	}
+
+}

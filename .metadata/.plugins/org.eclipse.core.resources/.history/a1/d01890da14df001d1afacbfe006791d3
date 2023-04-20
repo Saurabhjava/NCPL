@@ -1,0 +1,12 @@
+package com;
+class Employee {
+	String name="Moulika";
+}
+public class TestEmployee {
+
+	public static void main(String[] args) {
+		//Employee obj=new Employee();
+		System.out.println(Employee.name);
+	}
+
+}

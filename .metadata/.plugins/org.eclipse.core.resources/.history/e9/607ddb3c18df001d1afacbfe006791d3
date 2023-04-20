@@ -1,0 +1,10 @@
+package com;
+
+public interface ISoundable {
+	public abstract void play();
+	void pause();
+	void stop();
+	public default void record() {
+		
+	}
+}

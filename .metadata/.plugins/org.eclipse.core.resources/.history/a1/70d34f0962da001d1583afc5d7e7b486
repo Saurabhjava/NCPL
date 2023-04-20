@@ -1,0 +1,26 @@
+package com;
+
+class Animal {
+	public Animal() {
+		super();
+		System.out.println("Animal No-Para-Constructor");
+	}
+	public void eat() {
+		System.out.println("Animal Eat");
+	}
+}
+class Dog extends Animal {
+	public Dog() {
+		//super();
+		System.out.println("Dog No-Para-Constructor");
+	}
+}
+
+public class TestAnimal {
+
+	public static void main(String[] args) {
+		Dog obj=new Dog();
+		//obj.eat();
+	}
+
+}

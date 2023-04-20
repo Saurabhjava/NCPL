@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.Employee"/>
+<fullyQualifiedTypeName name="com.Calculator"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.Honda"/>
+<fullyQualifiedTypeName name="com.Santro"/>
+<fullyQualifiedTypeName name="com.Engine"/>
+<fullyQualifiedTypeName name="com.Soundable"/>
+<fullyQualifiedTypeName name="com.Recordable"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.ISoundable"/>
+<fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+<fullyQualifiedTypeName name="org.Addition"/>
+<fullyQualifiedTypeName name="org.Subtraction"/>
+<fullyQualifiedTypeName name="org.Multiplication"/>
+<fullyQualifiedTypeName name="org.ICalculator"/>
+</qualifiedTypeNameHistroy>

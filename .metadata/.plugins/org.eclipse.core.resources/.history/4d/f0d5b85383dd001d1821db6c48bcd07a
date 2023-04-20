@@ -1,0 +1,24 @@
+package com;
+
+class Car {
+	public void changeGear() {
+		System.out.println("Automatic");
+	}
+	public void lockingSystem() {
+		System.out.println("With Key");
+	}
+}
+
+class Honda extends Car {
+	
+}
+class Santro extends Car {
+	
+}
+public class TestCar {
+	public static void main(String[] args) {
+		Honda h=new Honda();
+		h.changeGear();
+		h.lockingSystem();
+	}
+}
