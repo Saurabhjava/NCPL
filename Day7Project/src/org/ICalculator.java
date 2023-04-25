@@ -1,6 +1,6 @@
 package org;
 
-@FunctionalInterface
+//@FunctionalInterface
 public interface ICalculator {
 	int calculate(int num1, int num2);
 }
