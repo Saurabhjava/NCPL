@@ -1,7 +1,0 @@
-package org;
-
-
-public interface ICalculator {
-	int calculate(int num1, int num2);
-	void m1();
-}

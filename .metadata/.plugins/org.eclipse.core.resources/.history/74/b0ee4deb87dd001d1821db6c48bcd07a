@@ -1,7 +1,0 @@
-package com;
-
-public interface Soundable {
-	void play();
-	void pause();
-	void stop();
-}
